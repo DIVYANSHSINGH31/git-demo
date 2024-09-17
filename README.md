@@ -1,3 +1,3 @@
 # git-demo
-This is my second repositry
-Author - Divyansh
+This is my second Repository
+Author - Divyansh Singh Sikarwar
